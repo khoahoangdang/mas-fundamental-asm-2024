@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MSA.Common.PostgresMassTransit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4df0f5702ff879ebc48d7d466398b1cd81ffcfde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fbdc6df8dc3d439a3a9418d2dbf9d0ed935249d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MSA.Common.PostgresMassTransit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MSA.Common.PostgresMassTransit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
