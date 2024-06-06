@@ -1,0 +1,17 @@
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/bin/Debug/net8.0/MSA.Common.PostgresMassTransit.deps.json
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/bin/Debug/net8.0/MSA.Common.PostgresMassTransit.runtimeconfig.json
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/bin/Debug/net8.0/MSA.Common.PostgresMassTransit.dll
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/bin/Debug/net8.0/MSA.Common.PostgresMassTransit.pdb
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/bin/Debug/net8.0/MSA.Common.Contracts.dll
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/bin/Debug/net8.0/MSA.Common.Contracts.pdb
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Common.PostgresMassTransit.csproj.AssemblyReference.cache
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Common.PostgresMassTransit.GeneratedMSBuildEditorConfig.editorconfig
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Common.PostgresMassTransit.AssemblyInfoInputs.cache
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Common.PostgresMassTransit.AssemblyInfo.cs
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Common.PostgresMassTransit.csproj.CoreCompileInputs.cache
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Comm.C5F38FBC.Up2Date
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Common.PostgresMassTransit.dll
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/refint/MSA.Common.PostgresMassTransit.dll
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Common.PostgresMassTransit.pdb
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/MSA.Common.PostgresMassTransit.genruntimeconfig.cache
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.PostgresMassTransit/obj/Debug/net8.0/ref/MSA.Common.PostgresMassTransit.dll
