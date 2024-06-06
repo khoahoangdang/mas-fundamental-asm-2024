@@ -1,0 +1,15 @@
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Security.deps.json
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Security.dll
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Security.pdb
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Contracts.dll
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/bin/Debug/net8.0/MSA.Common.Contracts.pdb
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.csproj.AssemblyReference.cache
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.GeneratedMSBuildEditorConfig.editorconfig
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.AssemblyInfoInputs.cache
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.AssemblyInfo.cs
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.csproj.CoreCompileInputs.cache
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/MSA.Comm.F723219D.Up2Date
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.dll
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/refint/MSA.Common.Security.dll
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/MSA.Common.Security.pdb
+/home/khoahoangdang/Training/mas-fundamental-asm-2024/MSA.Common.Security/obj/Debug/net8.0/ref/MSA.Common.Security.dll
