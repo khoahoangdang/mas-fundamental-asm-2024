@@ -2,6 +2,7 @@ using MSA.OrderService.Domain;
 using MSA.OrderService.Infrastructure.Data;
 using MSA.Common.Contracts.Settings;
 using MSA.Common.PostgresMassTransit.PostgresDB;
+using MSA.OrderService.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,11 @@ builder.Services
 builder.Services.AddControllers(opt => {
     opt.SuppressAsyncSuffixInActionNames = false;
 });
+
+builder.Services.AddHttpClient<IProductService, ProductService>(cfg => {
+    cfg.BaseAddress = new Uri("https://localhost:5002");
+});
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
