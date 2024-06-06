@@ -62,6 +62,20 @@ namespace MSA.OrderService.Migrations
                     b.ToTable("order_details", "Order");
                 });
 
+            modelBuilder.Entity("MSA.OrderService.Domain.Product", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("ProductId")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("products", "Order");
+                });
+
             modelBuilder.Entity("MassTransit.EntityFrameworkCoreIntegration.InboxState", b =>
                 {
                     b.Property<long>("Id")
